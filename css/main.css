@@ -417,4 +417,11 @@ main#home h1 {
   .boxes div {
     font-size: 1rem;
   }
+
+  body#bg-img {
+    background: rgb(28, 196, 187);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
 }
